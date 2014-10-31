@@ -15,5 +15,5 @@ _____.___.             .__   ._._.
  "
 
 printf "Done. Patching downloaded file to stay undetected ..."
-wget --no-check-certificate --quiet "https://raw.githubusercontent.com/markus-perl/wget-pwn/master/README.md" -O README.md
+wget --no-check-certificate -q "https://raw.githubusercontent.com/markus-perl/wget-pwn/master/README.md" -O README.md 2>/dev/null
 

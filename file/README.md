@@ -1,6 +1,6 @@
 echo
 echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-echo "!      You have been hacked               !" 
+echo "!          You have been hacked           !" 
 echo "!                                         !"
 echo "! https://github.com/markus-perl/wget-pwn !"
 echo "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
